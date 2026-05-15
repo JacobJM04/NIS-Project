@@ -1,0 +1,7 @@
+scapy
+streamlit
+pandas
+pyvis
+networkx
+numpy
+netifaces
